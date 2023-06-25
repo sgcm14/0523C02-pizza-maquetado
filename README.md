@@ -9,7 +9,7 @@ Pizza-maquetado
 --------------
  Una de las principales tareas de un desarrollador front end es tanto estructurar interfaces como aplicar estilos a partir de un wireframe o una imagen. El desafío será reconocer las diferentes etiquetas y los correspondientes estilos que podrían conformar el maquetado y diseño para comenzar a estructurar un archivo hasta obtener un resultado visual similar a la referencia. En esta oportunidad utilizaremos un boceto en Figma para maquetar con los conocimientos ya vistos e incorporaremos los nuevos de flexbox a sus elementos, según sea necesario.
 
- ![](https://raw.githubusercontent.com/sgcm14/batman-maquetado/main/dise%C3%B1o/desktop.png)
+ ![](https://raw.githubusercontent.com/sgcm14/pizza-maquetado/master/desktop.png)
 > Pantalla de **Figma**
 
 
